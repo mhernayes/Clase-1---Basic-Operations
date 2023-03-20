@@ -1,4 +1,4 @@
-# Clase-1---Basic-Operations
+# Clase_1_Basic_Operations
 
 Basic Operations on Variables and Data Types
 This repository contains basic operations on variables and data types in Python programming language. The repository includes code examples and explanations for performing various operations on variables and data types.
