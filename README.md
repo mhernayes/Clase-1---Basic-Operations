@@ -29,3 +29,7 @@ Logical Operations: And, Or, and Not operations on two boolean values.
 Type Conversion Operations: Conversion of one data type to another data type, such as conversion of an integer to a string or a string to an integer.
 Contributing
 Contributions to this repository are always welcome. If you find any errors or have suggestions for additional examples or topics, please create a pull request or issue in the repository.
+
+# Contribution 
+If you have any suggestions or feedback regarding this configuration file, please feel free to create an issue or submit a pull request. 
+I would be more than happy to review your contributions and make any necessary changes.
